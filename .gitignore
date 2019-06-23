@@ -1,0 +1,14 @@
+tmp/*
+library/*
+api/config.php
+*.mpeg
+
+*.xls
+
+*.log
+
+
+*.mp4
+*.ass
+*.mp3
+*.json
